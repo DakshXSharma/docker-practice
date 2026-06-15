@@ -1,0 +1,4 @@
+Total Customers: 100000
+Total Products: 50000
+Total Orders: 1000000
+Total Returned Orders: 100000
